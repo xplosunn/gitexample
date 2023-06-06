@@ -1,3 +1,3 @@
 # gitexample
 
-This is my change
+This is our change
