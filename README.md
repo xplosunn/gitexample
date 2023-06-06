@@ -1,3 +1,3 @@
 # gitexample
 
-This is our repository
+This is our repository.
